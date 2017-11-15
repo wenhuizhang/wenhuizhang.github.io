@@ -6,7 +6,7 @@
 
 #### 2. Dualboot Arch
 
-[[https://github.com/wenhuizhang/wenhuizhang.github.io/blob/master/posters/Secure%20Firmwares%20for%20Internet%20of%20Things%20(1).pdf|alt=Dualboot Arch]]
+[[https://github.com/wenhuizhang/wenhuizhang.github.io/blob/master/posters/Secure%20Firmwares%20for%20Internet%20of%20Things%20(1).pdf|alt=Dualboot_Arch]]
 
 
 ### Contact
